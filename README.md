@@ -1,16 +1,11 @@
-## Hi there 👋
+## 👋 Hi there! I'm Ivan Kondratev
+Welcome to my GitHub! I'm a passionate Data Analyst with a knack for turning raw data into actionable insights. Recently, I completed an intensive Data Analytics course at TripleTen, where I honed my skills in:
 
-<!--
-**KondratevI/KondratevI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data visualization and storytelling
+- 🧠 Python, SQL, and analytics tools
+- 🔍 Solving business problems with data
+## 🌟 My Interests
+- **Hobbies:** Practicing Aikido and exploring new board games
+- **Professional:** Machine Learning & AI, data-driven decision-making, and open-source projects
+## 📫 Let's connect!
+Feel free to check out my work here or reach out on [LinkedIn](https://www.linkedin.com/in/ivan-kondratev/).
